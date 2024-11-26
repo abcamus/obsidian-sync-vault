@@ -41,7 +41,7 @@
 
 ## 联系方式
 
-我的主页 - [@KQ Digital Garden](https://kqiu.top/about/)
+我的主页 - [@KQ Digital Garden](https://kqiu.top)
 
 项目链接: [github](https://github.com/abcamus/obsidian-sync-vault), [gitee](https://gitee.com/abcamus/obsidian-sync-vault)
 
