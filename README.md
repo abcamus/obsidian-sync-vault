@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/abcamus/obsidian-sync-vault?style=social)](https://github.com/abcamus/obsidian-sync-vault)
 [![License](https://img.shields.io/badge/license-AGPL3.0-green?style=flat-square)](LICENSE)
 [![Sync Vault User Mannual](https://img.shields.io/badge/Obsidian-Plugin-purple?style=flat-square&logo=obsidian)](https://sync-vault.com/sync-vault)
-[![Latest Release](https://img.shields.io/github/v/release/abcamus/obsidian-sync-vault-ce?include_prereleases&style=flat-square)](https://github.com/abcamus/obsidian-sync-vault/releases)
+[![Latest Release](https://img.shields.io/github/v/release/abcamus/obsidian-sync-vault?include_prereleases&style=flat-square)](https://github.com/abcamus/obsidian-sync-vault/releases)
 
 ## Introduction
 Obsidian Sync Vault is a concise and efficient synchronization plugin that helps users easily solve multi-device synchronization problems.
