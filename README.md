@@ -9,12 +9,14 @@
 ## Introduction
 Obsidian Sync Vault is a concise and efficient synchronization plugin that helps users easily solve multi-device synchronization problems.
 
-## Supported Cloud Storage Services
+## Supported Cloud Storage Services(since 1.0.0)
 1. Baidu Cloud Disk
 2. Alibaba Cloud Disk
 3. OneDrive
-4. Kuake (coming soon)
-5. S3 (coming soon)
+4. Nutstore
+5. InfiniCloud
+6. Quark
+7. COS
 
 ## Capabilities
 
