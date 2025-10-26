@@ -1,0 +1,34 @@
+name: Feature Request
+description: Propose a new feature or improvement
+title: "[FEATURE] "
+labels: ["enhancement", "needs-triage"]
+assignees: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please describe the feature you'd like to add and the problem it would solve.
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Explain the feature you want in detail
+      placeholder: For example, I want to add a dark mode toggle button
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-solved
+    attributes:
+      label: Problem Solved
+      description: What pain point does this feature address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternative-ideas
+    attributes:
+      label: Alternative Ideas
+      description: Have you considered any other implementation methods?
